@@ -9,6 +9,6 @@ This is a 2048 copy, made in C++ for a university project during first semester 
 
 ### Details
 
--This 2048 console application can be played on a 4x4 board, up to 10x10 board
--Leaderboard is implemented, where the scores of the top 5 players with highest score are kept
--There is a different leaderboard for each board size
+-This 2048 console application can be played on a 4x4 board, up to 10x10 board <br />
+-Leaderboard is implemented, where the scores of the top 5 players with highest score are kept <br />
+-There is a different leaderboard for each board size <br />
