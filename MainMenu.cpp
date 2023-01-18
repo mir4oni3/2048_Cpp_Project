@@ -1,7 +1,20 @@
+/**
+*
+* Solution to course project # 4
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2022/2023
+*
+* @author Miroslav Stoyanovski
+* @idnumber 5MI0600195
+* @compiler VC
+*
+* Cpp file containing main function initialization
+*
+*/
 #include <iostream>
 #include "GameLogic.h"
 #include "Leaderboard.h"
-#include "MainMenu.h"
 
 void mainMenu() {
 	std::cout << "MAIN MENU:" << std::endl;
