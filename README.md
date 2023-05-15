@@ -1,5 +1,6 @@
 # 2048_Cpp_Project
 This is a 2048 copy, made in C++ for a university project during first semester of Software Engineering in Sofia University
+Note: This is my project for Introduction to Programming course, which is before Object-Oriented Programming 
 
 ## Implementation of 2048 game in C++ without using external/internal libraries
 
